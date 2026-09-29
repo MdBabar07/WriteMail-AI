@@ -1,6 +1,6 @@
 # WriteMail AI
 
-WriteMail AI is a full-stack email-writing application. Describe the message you need in plain language and the app uses the Groq API to generate a subject and email body. For cold outreach requests, it can also return a LinkedIn direct message and a follow-up email.
+WriteMail AI is an AI-powered email writing application that helps users create clear, professional emails from simple natural-language prompts. Powered by the Groq API, it generates personalized subject lines and email content, along with LinkedIn outreach messages and follow-up emails.
 
 ## Features
 
